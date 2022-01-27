@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups/>
+    <users>
+        <user identifier="40fb9688-4d28-3aed-9e64-d1a95a843f60" identity="CN=nifi-0, OU=NiFi"/>
+        <user identifier="e12da1d6-0cff-3107-9f7e-32bd68cc06fa" identity="uid=admin,ou=NiFi,dc=mobigen,dc=com"/>
+    </users>
+</tenants>

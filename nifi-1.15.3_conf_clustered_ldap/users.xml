@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups/>
+    <users>
+        <user identifier="6b4d2ed4-20d2-3d70-8c5a-d9cbd92b79ce" identity="CN=otdevm001, OU=NIFI"/>
+        <user identifier="bfef08ea-34c4-38fe-9d36-3dc311a91c74" identity="CN=otdevn002, OU=NIFI"/>
+        <user identifier="3f88672f-166d-3f4d-b181-080544206a83" identity="CN=otdevn001, OU=NIFI"/>
+        <user identifier="e12da1d6-0cff-3107-9f7e-32bd68cc06fa" identity="uid=admin,ou=NiFi,dc=mobigen,dc=com"/>
+    </users>
+</tenants>
